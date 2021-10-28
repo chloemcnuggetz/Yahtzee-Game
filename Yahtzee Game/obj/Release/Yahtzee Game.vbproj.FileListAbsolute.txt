@@ -1,0 +1,12 @@
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\bin\Release\Yahtzee Game.exe.config
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\bin\Release\Yahtzee Game.exe
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\bin\Release\Yahtzee Game.pdb
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\bin\Release\Yahtzee Game.xml
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\obj\Release\Yahtzee Game.vbproj.GenerateResource.cache
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\obj\Release\Yahtzee Game.vbproj.CoreCompileInputs.cache
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\obj\Release\Yahtzee Game.exe
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\obj\Release\Yahtzee Game.xml
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\obj\Release\Yahtzee Game.pdb
+C:\Users\chloe\Desktop\yahtzee\Yahtzee Game\Yahtzee Game\obj\Release\Yahtzee Game.vbproj.AssemblyReference.cache
